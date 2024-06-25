@@ -26,6 +26,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/josefdz08/" target="_blank">
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=josepro08)
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
